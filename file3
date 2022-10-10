@@ -1,0 +1,20 @@
+global ....
+in git bash for begginers...
+* git config --global user.name "dummyusername"
+* git config --global user.email "dummy mail id"
+* git config --list
+* cd desktop
+* pwd
+* git clone (paste the  code url .. from ur githuh)
+* cd (save the file which is ur new repository)
+* create file under new repository
+  cat >file 
+  add content >> save >> ls
+* git status
+* git add file
+* git status (here ur file will be in green colour)
+* git commit -m "comments"
+* git push -u origin main
+then tokens >> setting >> developersetting >> personal acess tokens
+>> generate token >> and delete token >>
+thank you ur file was push to create new repository
